@@ -7,3 +7,4 @@
 - [ch2-variables](https://github.com/aj-clarke/RB100/tree/main/ch2-variables)
 - [ch3-methods](https://github.com/aj-clarke/RB100/tree/main/ch3-methods)
 - [ch4-flow_control](https://github.com/aj-clarke/RB100/tree/main/ch4-flow_control)
+- [ch5-loops_iterators](https://github.com/aj-clarke/RB100/tree/main/ch5-loops_iterators)
