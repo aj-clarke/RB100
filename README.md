@@ -10,3 +10,4 @@
 - [ch5-loops_iterators](https://github.com/aj-clarke/RB100/tree/main/ch5-loops_iterators)
 - [ch6-arrays](https://github.com/aj-clarke/RB100/tree/main/ch6-arrays)
 - [ch7-hashes](https://github.com/aj-clarke/RB100/tree/main/ch7-hashes)
+- [ch8-more_stuff](https://github.com/aj-clarke/RB100/tree/main/ch8-more_stuff)
